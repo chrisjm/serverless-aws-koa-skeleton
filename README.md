@@ -8,8 +8,8 @@
 ## Setup
 
 ```bash
-npm ci
 cp ./config/config.example.yml ./config/dev.yml
+yarn
 ```
 
 ## Development
@@ -17,13 +17,13 @@ cp ./config/config.example.yml ./config/dev.yml
 You can build and run an offline local Lambda server.
 
 ```bash
-npm run dev
+yarn run dev
 ```
 
 ### Watching
 
 ```bash
-npm run test:watch
+yarn run test:watch
 ```
 
 ## Testing
@@ -31,7 +31,7 @@ npm run test:watch
 ### Unit Tests
 
 ```bash
-npm test
+yarn test
 ```
 
 ### Integration Tests
@@ -41,25 +41,25 @@ Integration tests require an actively running local server.
 1. First start the development server
 
 ```bash
-npm run dev
+yarn run dev
 ```
 
 2. In a different terminal/console, run the tests:
 
 ```bash
-npm run test:integration
+yarn run test:integration
 ```
 
 Additionally, you should be able to run:
 
 ```bash
-npm run test:offline
+yarn run test:offline
 ```
 
 ### Coverage
 
 ```bash
-npm run test:cover
+yarn run test:cover
 ```
 
 ## Deployment
