@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:chrisjm/serverless-aws-koa-skeleton.git"
   },
   "author": "Chris J Mears <chris.mears@gmail.co>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/chrisjm/serverless-aws-koa-skeleton/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/chrisjm/serverless-aws-koa-skeleton",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.3",
