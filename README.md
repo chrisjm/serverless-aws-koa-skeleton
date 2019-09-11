@@ -2,7 +2,8 @@
 
 ## Requirements
 
-- node 8.x
+- node 8.10.x
+- yarn 1.17.x
 
 ## Setup
 
