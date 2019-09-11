@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Configs
+config/*
+!config/config.example.yml
+
+.webpack
+.nyc_output

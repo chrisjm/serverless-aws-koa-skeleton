@@ -1,0 +1,5 @@
+environment:
+  ALLOWED_DOMAINS: localhost
+  COUNTRY_CODE: us
+  LANGUAGE_CODE: en
+  NODE_ENV: development
