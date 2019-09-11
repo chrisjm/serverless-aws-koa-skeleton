@@ -1,5 +1,7 @@
 # serverless-aws-koa-skeleton
 
+[![Build Status](https://travis-ci.com/chrisjm/serverless-aws-koa-skeleton.svg?branch=master)](https://travis-ci.com/chrisjm/serverless-aws-koa-skeleton)
+
 ## Requirements
 
 - node 8.10.x
